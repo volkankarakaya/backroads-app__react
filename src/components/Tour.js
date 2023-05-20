@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Tour = ({id,image,title,date,info,location,duration,price}) => {
+const Tour = ({image,title,date,info,location,duration,price}) => {
   return (
     <article className="tour-card" >
                 <div className="tour-img-container">
