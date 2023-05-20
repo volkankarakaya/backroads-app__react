@@ -8,7 +8,6 @@ import Tours from "./components/Tours";
 
 
 function App() {
-  console.log('hello')
   return <>
     <Navbar />
     <Hero />

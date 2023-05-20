@@ -5,7 +5,7 @@ import Tour from './Tour'
 
 const Tours = () => {
   return (
-    <section className="section" id="tours">
+    <section className="section" id="tours" >
         <Title title={'featured'} subTitle={'tours'} />
 
 

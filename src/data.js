@@ -66,7 +66,7 @@ export const tours = [
     price: 2100
   },
   {
-    id: 1,
+    id: 2,
     image: tour2,
     date: "october 1th, 2023",
     title: "best of java",
@@ -76,7 +76,7 @@ export const tours = [
     price: 1400
   },
   {
-    id: 1,
+    id: 3,
     image: tour3,
     date: "september 15th, 2023",
     title: "explore hong kong",
@@ -86,7 +86,7 @@ export const tours = [
     price: 5000
   },
   {
-    id: 1,
+    id: 4,
     image: tour4,
     date: "december 5th, 2023",
     title: "kenya highlights",
